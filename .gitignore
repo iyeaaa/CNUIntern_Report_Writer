@@ -79,7 +79,6 @@ venv.bak/
 dmypy.json
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -93,3 +92,6 @@ dmypy.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
